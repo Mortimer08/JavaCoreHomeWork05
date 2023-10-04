@@ -1,4 +1,4 @@
-package org.example;
+package org.tree;
 
 import java.io.File;
 
